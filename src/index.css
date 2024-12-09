@@ -1,0 +1,4 @@
+/* index.css ফাইলে Tailwind CSS এর বেস, কম্পোনেন্টস এবং ইউটিলিটি ক্লাস যুক্ত করা হচ্ছে */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
